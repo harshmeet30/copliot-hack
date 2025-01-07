@@ -1,12 +1,5 @@
 # HateShield
-HateShield is a project designed to detect hate speech using advanced AI models. The solution leverages Python and its ecosystem of libraries to process data, train models, and make predictions.
-
-
-## Introduction
-
-
-
-## Features
+HateShield is a project designed to deal with text to provide sentimental analysis with confidence score, severity, key phrases along with counter narrative; and image content moderation to determining acceptance and rejection of the image.
 
 
 ## Installation
@@ -72,6 +65,11 @@ After successfully updating the `.env` file you can proceed ahead with running t
 # Run the Streamlit application
 streamlit run streamlit_app.py
 ```
+
+## After Successful Running 
+You would be able to see a proper running web application.
+![Screenshot 2025-01-07 081921](https://github.com/user-attachments/assets/bdb7707e-408a-4113-ae4e-10efba568179)
+
 
 ## Project Structure
 
