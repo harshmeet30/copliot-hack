@@ -68,7 +68,8 @@ streamlit run streamlit_app.py
 
 ## After Successful Running 
 You would be able to see a proper running web application.
-![Screenshot 2025-01-07 081921](https://github.com/user-attachments/assets/bdb7707e-408a-4113-ae4e-10efba568179)
+![Screenshot 2025-01-07 151001](https://github.com/user-attachments/assets/6861e66d-c345-426d-9dce-939282342de0)
+
 
 
 ## Project Structure
