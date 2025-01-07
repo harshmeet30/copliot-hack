@@ -50,20 +50,20 @@ Follow these steps to set up HateShield locally:
 After installation, you can start using HateShield by running the main script but before that include all the necessary keys and endpoints into the **.env** file:
 
 #### For Azure Open AI
-ENDPOINT_URL=
-DEPLOYMENT_NAME=
-AZURE_OPENAI_API_KEY=
+- ENDPOINT_URL=
+- DEPLOYMENT_NAME=
+- AZURE_OPENAI_API_KEY=
 
 #### For Azure Content Safety
-MODERATOR_ENDPOINT=
-MODERATOR_API_KEY=
+- MODERATOR_ENDPOINT=
+- MODERATOR_API_KEY=
 
 #### For Azure Language Service
-LANGUAGE_SERVICE_ENDPOINT=
-LANGUAGE_SERVICE_KEY=
+- LANGUAGE_SERVICE_ENDPOINT=
+- LANGUAGE_SERVICE_KEY=
 
 #### For Azure Data Table
-TABLE_STORAGE_CONN_STRING=
+- TABLE_STORAGE_CONN_STRING=
 
 
 After successfully updating the `.env` file you can proceed ahead with running the streamlit App.
