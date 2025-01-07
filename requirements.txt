@@ -1,0 +1,9 @@
+streamlit
+azure-ai-textanalytics
+azure-data-tables
+openai
+matplotlib
+plotly
+wordcloud
+python-dotenv
+streamlit-option-menu
